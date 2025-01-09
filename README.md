@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mabdelrahman5, but you can call me Mohamed :)
+- 👋 Hi, I’m mabdelrahman5, but you can call me Mohamed
 - 👀 I’m interested in learning more about different programming careers, especially in fields of cybersecurity and data analysis.
 - 🌱 I’m currently learning Python, but moving into HTML and JavaScript over the summer, and hopefully C over my next semester.
 - 💞️ I’m looking to collaborate on any project that can branch me out into new understandings and learning more about different coding languages and experiences.
